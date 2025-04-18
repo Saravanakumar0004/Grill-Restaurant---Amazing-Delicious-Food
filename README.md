@@ -51,11 +51,13 @@ Grill-Restaurant/ │ ├── assets/ │ ├── css/ # Stylesheets │ ├
 3.Open index.html in your browser to view locally.
 
 ✍️ Author
-Saravanakumar
+
+Saravanakumar S
 GitHub: @saravanakumar0004
 
 
 📃 License
+
 This project is for personal/educational use. Please give proper credit if reused or modified.
 
 
