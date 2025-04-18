@@ -10,7 +10,7 @@ A stylish and responsive website template for a Grill Restaurant, showcasing mou
 
 ## 📸 Preview
 
-![Website Screenshot](https://saravanakumar0004.github.io/Grill-Restaurant---Amazing-Delicious-Food/assets/images/slider/slide1.jpg)
+![Website Screenshot](https://saravanakumar0004.github.io/Grill-Restaurant---Amazing-Delicious-Food/preview.png)
 
 ---
 
