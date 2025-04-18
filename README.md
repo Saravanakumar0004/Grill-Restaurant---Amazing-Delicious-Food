@@ -16,7 +16,7 @@ A stylish and responsive website template for a Grill Restaurant, showcasing mou
 
 ## 📁 Project Structure
 
-
+Grill-Restaurant/ │ ├── assets/ │ ├── css/ # Stylesheets │ ├── fonts/ # Font files │ ├── images/ # Images used in website │ └── js/ # JavaScript files │ ├── index.html # Main HTML file ├── about.html # About page ├── menu.html # Menu page ├── contact.html # Contact page └── README.md # Project documentation.
 ---
 
 ## 🚀 Features
